@@ -4,7 +4,7 @@ A dockable UI panel for After Effects that **auto-saves your project right befor
 
 **Safe Effects** fixes this. By building your own custom shortcut buttons, the script forces a hard save (`app.project.save()`) a literal millisecond before the effect is applied. If Sapphire (or any other heavy plugin) decides to tank your software, your project is already backed up. Zero data loss (i hope). Just restart and keep going.
 
-![Safe Effects Preview](link-to-your-screenshot-image.png)
+![Safe Effects Preview](belom-di-bikin-gif-nya)
 
 ## 🛡️ Core Features
 * **Crash Protection:** Forces a save before applying anything.
