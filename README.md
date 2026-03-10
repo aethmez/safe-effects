@@ -38,4 +38,4 @@ A dockable UI panel for After Effects that **auto-saves your project right befor
   
   (Open Source & Free FOREVER. I think)
   
-**License:** [MIT License](LICENSE) 
+**License:** [MIT License](LICENSE)  
