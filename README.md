@@ -32,12 +32,16 @@ A dockable UI panel for After Effects that **auto-saves your project right befor
 * **Add a Preset:** In the Manager, click **[+] Browse User Preset (.ffx)** to link an animation preset file.
 * **Reorder/Delete:** Open the Manager to move buttons up/down or banish them from your grid entirely.
 
-  Compatibility: Works on all modern versions of AE (2022+) AND legacy versions (CC 2014 – 2021) thanks to a built-in JSON fallback. (even CS6, ~according to gemini~ i've tested myself, it works)
+---
 
-  Works on Windows (Questionable on macOS)
+  ## Compatibility 
+  
+  Works on all modern versions of AE (2022+) AND legacy versions (CC 2014 – 2021) thanks to a built-in JSON fallback. (even CS6, ~according to gemini~ i've tested myself, it works)
+
   
   <img width="1156" height="665" alt="Screenshot 2026-03-11 094435" src="https://github.com/user-attachments/assets/c638cea3-ddda-4474-9e40-3ef1b3284be2" />
   
+  > Works on Windows (Questionable on macOS)
 ---
 
   S_Shake Shortcut built-in for a reason fuck u sapir anjeng
