@@ -1,5 +1,5 @@
 /**
- * Safe Effects v1.0
+ * Safe Effects v1.0.1
  * Features: Crash Protection (auto-save), Search filtering, JSON storage, 2-column grid.
  */
 (function(thisObj) {
@@ -68,7 +68,7 @@
 
         var dividerTop = myPanel.add("panel", undefined, undefined);
         dividerTop.alignment = "fill";
-        dividerTop.minimumSize.height = 2;
+        dividerTop.maximumSize.height = 2;
 
         var btnGroup = myPanel.add("group");
         btnGroup.orientation = "column";
@@ -78,7 +78,7 @@
 
         var dividerBottom = myPanel.add("panel", undefined, undefined);
         dividerBottom.alignment = "fill";
-        dividerBottom.minimumSize.height = 2;
+        dividerBottom.maximumSize.height = 2;
 
         var btnManage = myPanel.add("button", undefined, "⚙ Manage Shortcuts");
         btnManage.alignment = ["fill", "bottom"];
@@ -414,4 +414,5 @@
         myScriptPal.center();
         myScriptPal.show();
     }
+
 })(this);
